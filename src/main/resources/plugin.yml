@@ -1,0 +1,7 @@
+name: VoidGuard
+version: ${project.version}
+main: com.mk7a.voidguard.Voidguard
+prefix: VoidGuard
+authors: [mk7a]
+description: Teleport players that fall into the void back to their last location
+website: www.mk7a.com
